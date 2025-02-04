@@ -19,7 +19,7 @@ This project analyzes a dataset collected from data professionals, showcasing in
 3️⃣ Explore the **Dashboard & Insights**  
 
 ## 📊 Dashboard Preview  
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/USERNAME/data-professional-survey-analysis/raw/main/Salary.png))
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/megahed1/data-professional-survey-analysis/blob/main/Home%20Page.png))
 
 ---
 🔗 **Connect with me:** [LinkedIn](linkedin.com/in/mohamed-megahed-)  
