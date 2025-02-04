@@ -14,12 +14,12 @@ This project analyzes a dataset collected from data professionals, showcasing in
 ✅ **Interactive Dashboard** visualizing trends  
 
 ## 🚀 How to Use  
-1️⃣ Download the Power BI file: [Click Here]([https://drive.google.com/YOUR-LINK](https://drive.google.com/file/d/17ec2JwJD3a2qlr9CmQHx8UpfHtUPqh4G/view?usp=sharing)) 
+1️⃣ Download the Power BI file: [Click Here]([https://drive.google.com/YOUR-LINK]()) 
 2️⃣ Open with **Power BI Desktop**  
 3️⃣ Explore the **Dashboard & Insights**  
 
 ## 📊 Dashboard Preview  
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/megahed1/data-professional-survey-analysis/blob/main/Home%20Page.png))
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/megahed1/data-professional-survey-analysis/blob/main/Salary.png))
 
 ---
 🔗 **Connect with me:** [LinkedIn](linkedin.com/in/mohamed-megahed-)  
