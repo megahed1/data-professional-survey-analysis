@@ -14,7 +14,7 @@ This project analyzes a dataset collected from data professionals, showcasing in
 ✅ **Interactive Dashboard** visualizing trends  
 
 ## 🚀 How to Use  
-1️⃣ Download the Power BI file: [Click Here]([https://drive.google.com/YOUR-LINK]()) 
+1️⃣ Download the Power BI file: [Click Here]([https://drive.google.com/file/d/1DbrHxzwMMiLLwWDw_CI1MN4hpRwZ1nEJ/view?usp=sharing]()) 
 2️⃣ Open with **Power BI Desktop**  
 3️⃣ Explore the **Dashboard & Insights**  
 
